@@ -9,7 +9,7 @@ This tutorial outlines potential SEV-A, SEV-B, and SEV-C ticket lifecycles and s
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Tickets and Ticket Lifecycles](https://www.youtube.com/watch?v=qbxlwP0RQwY)
+- ### [YouTube: Tickets and Ticket Lifecycles]
 
 <h2>Environments and Technologies Used</h2>
 
